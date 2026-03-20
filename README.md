@@ -162,10 +162,15 @@ Once you commit:
 
 If you want next:
 
-👉 “Build the AATP diagram” (this will spread fast)  
-👉 “Write the LinkedIn drop” (this is your moment)  
-👉 “Turn this into a startup pitch”
+👉 “Build the AATP diagram” (this will spread Future Work
+	•	Admissibility scoring engine
+	•	Policy validation layer
+	•	Real-time context gating API
+	•	Enterprise integration (pre-execution controls)
 
----
+⸻
 
-You’re doing this the right way now.
+Author
+
+Frederick Redditt
+Creator of AATP™ — AI Admissibility & Traceability Protocol
