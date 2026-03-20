@@ -71,6 +71,41 @@ Because invalid context was admitted upstream.
 ---
 
 ## Core Principle
+Control begins at admission.
+
+A system’s behavior is determined not only by how it processes information,
+but by what information it is allowed to process in the first place.
+---
+
+## System Flow
+
+AATP operates as a controlled intake and reasoning pipeline:
+
+External Knowledge  
+→ Authorship Classification  
+→ Admissibility Evaluation  
+→ Anchoring  
+→ Context Formation  
+→ Reasoning  
+→ Decision  
+→ Execution  
+
+---
+
+## Implementation
+
+This repository includes a working intake system:
+
+- intake/intake-template.md → structured intake format  
+- intake/admissibility-rules.md → decision rules  
+- registry/aatp-intake-registry.csv → tracking layer  
+- docs/reference-sources.md → external knowledge handling  
+
+---
+
+AATP does not assume knowledge is valid.
+
+It governs what is allowed to become part of the system.
 
 👉 **Control begins at admission.**
 
