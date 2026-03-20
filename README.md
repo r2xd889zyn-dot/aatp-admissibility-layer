@@ -117,7 +117,7 @@ def admissibility_check(input_data, constraints):
         return False, "Low confidence"
 
     return True, "Admissible"
-'''
+
 
 ## Future Work
 	•	Admissibility scoring engine
