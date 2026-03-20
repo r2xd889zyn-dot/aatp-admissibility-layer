@@ -129,18 +129,20 @@ Author
 Frederick Redditt
 Creator of AATP™ — AI Admissibility & Traceability Protocol---
 
-# 🚨 IMPORTANT — REMOVE THESE (DO NOT INCLUDE)
+# 🚨 REMOVE FROM YOUR FILE (IMPORTANT)
 
-Make sure NONE of this is in your README:
+Delete ALL of this:
 
-- ❌ “REMOVE THIS FROM README”
-- ❌ commit message text
-- ❌ instructions
-- ❌ commentary
+- ❌ “IMPORTANT — REMOVE THIS”
+- ❌ commit message section  
+- ❌ instructions  
+- ❌ any commentary  
+
+👉 README = only system definition
 
 ---
 
-# 🔥 FINAL COMMIT MESSAGE (PASTE IN GITHUB BOX)
+# 🔥 COMMIT MESSAGE (USE IN GITHUB BOX, NOT README)
 
 ```bash
 Initial commit — AATP™ Context Admissibility Layer
