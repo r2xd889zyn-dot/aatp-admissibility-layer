@@ -116,7 +116,10 @@ def admissibility_check(input_data, constraints):
     if input_data.get("confidence", 0) < constraints.get("min_confidence", 0.5):
         return False, "Low confidence"
 
-    return True, "Admissible"Future Work
+    return True, "Admissible"
+'''
+
+## Future Work
 	•	Admissibility scoring engine
 	•	Policy validation layer
 	•	Real-time context gating API
