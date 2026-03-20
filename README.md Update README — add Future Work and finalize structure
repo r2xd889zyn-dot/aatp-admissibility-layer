@@ -123,11 +123,11 @@ def admissibility_check(input_data, constraints):
 	•	Admissibility scoring engine
 	•	Policy validation layer
 	•	Real-time context gating API
-	•	Enterprise integration (pre-execution controls)
+	• Enterprise integration (pre-execution controls)
 
 ⸻
 
-Author
+## Author
 
 Frederick Redditt
 Creator of AATP™ — AI Admissibility & Traceability Protocol
