@@ -40,6 +40,12 @@ AATP defines three foundational constructs:
 
 ---
 
+## Structural Invariant
+
+Admissibility must be resolved before context formation occurs.
+
+Once a signal is admitted, the system will organize around it regardless of its validity.
+
 ## Case Studies
 
 - cases/steel-overcapacity.md
