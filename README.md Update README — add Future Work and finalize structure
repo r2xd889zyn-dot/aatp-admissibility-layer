@@ -92,6 +92,39 @@ External Knowledge
 
 ---
 
+## Definitions
+
+AATP defines three foundational constructs that govern how systems form and operate:
+
+- **Signal** → candidate input capable of influencing the system (not yet trusted)  
+- **Context** → the bounded environment in which admitted signals interact  
+- **State** → the system’s current representation derived from admitted signals  
+
+---
+
+### Governance Layers
+
+- **Authorship** → defines who introduces signals and establishes authority  
+- **Admissibility** → determines what is allowed to enter the system  
+- **Anchoring** → ensures admissibility rules remain stable over time  
+
+---
+
+### Key Insight
+
+Traditional systems assume input validity.
+
+AATP explicitly governs signal admission before context formation.
+
+---
+
+### Reference
+
+See full definitions:
+👉 docs/aatp-definitions.md
+
+---
+
 ## Implementation
 
 This repository includes a working intake system:
