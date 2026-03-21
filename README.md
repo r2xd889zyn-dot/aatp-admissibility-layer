@@ -1,0 +1,45 @@
+# AATP™ — AI Admissibility & Traceability Protocol
+
+## Core Principle
+
+Control begins at admission.
+
+A system’s behavior is determined not only by how it processes information,  
+but by what information it is allowed to process in the first place.
+
+---
+
+## System Flow
+
+External Knowledge  
+→ Authorship Classification  
+→ Admissibility Evaluation  
+→ Anchoring  
+→ Context Formation  
+→ Reasoning  
+→ Decision  
+→ Execution  
+
+---
+
+## Definitions
+
+AATP defines three foundational constructs:
+
+- **Signal** → candidate input capable of influencing the system  
+- **Context** → bounded environment where signals interact  
+- **State** → system’s current representation  
+
+---
+
+### Governance Layers
+
+- **Authorship** → defines origin and authority  
+- **Admissibility** → determines what enters the system  
+- **Anchoring** → maintains stability over time  
+
+---
+
+## Case Studies
+
+- cases/steel-overcapacity.md
